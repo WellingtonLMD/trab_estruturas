@@ -1,9 +1,10 @@
 * PASSOS PARA COMPILAR
 
-1 - ir até a pasta do projeto
-2 - abrir um cmd na pasta do projeto
-3 - digitar e executar o comando "mingw32-make"
-4 - iniciar o programa pelo executavel main que vai ser criado na pasta do projeto
+1 - o trabalho ja esta compilado e pronto para execução, seguir os passos a seguir somente se for compilar novamente
+2 - ir até a pasta do projeto
+3 - abrir um cmd na pasta do projeto
+4 - digitar e executar o comando "mingw32-make"
+5 - iniciar o programa pelo executavel main que vai ser criado na pasta do projeto
 
 * OBS
 
