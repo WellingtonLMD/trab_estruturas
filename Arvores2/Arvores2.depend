@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1606855517 source:c:\users\mathe\onedrive\Área de trabalho\arvores2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"code.h"
+
+1606856088 c:\users\mathe\onedrive\Área de trabalho\arvores2\code.h
+
