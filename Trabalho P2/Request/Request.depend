@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1606793839 source:c:\users\mathe\onedrive\documentos\pasta de c e c++\request\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Fila.h"
+
+1606793928 source:c:\users\mathe\onedrive\documentos\pasta de c e c++\request\fila.c
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1606793920 c:\users\mathe\onedrive\documentos\pasta de c e c++\request\fila.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1606793930 source:c:\users\welli\desktop\trabalho p2\request\fila.c
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1606793922 c:\users\welli\desktop\trabalho p2\request\fila.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1606793964 source:c:\users\welli\desktop\trabalho p2\request\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Fila.h"
+
