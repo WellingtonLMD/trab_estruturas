@@ -8,8 +8,8 @@
 
 * OBS
 
-1 - o programa ja esta confirado com 3 musicas, exevutar os passos a seguir somente se for adicionar novas
-2 - as musicas deve estar na pasta "musics"
+1 - o programa ja esta configurado com 3 musicas, executar os passos a seguir somente se for adicionar novas
+2 - as musicas devem estar na pasta "musics"
 3 - as musicas devem ter o formato .mp3
 4 - após as musicas serem colocafas na pasta "music", abrir o arquivo "config" e colocar da seguinte forma:
 	*na primeira linha colocar o nome do autor
